@@ -1,0 +1,11 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "WorkList Sample Swagger API",
+        "contact": {},
+        "version": "1.0"
+    },
+    "host": "localhost:7777",
+    "basePath": "/api/v1",
+    "paths": {}
+}

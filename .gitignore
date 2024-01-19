@@ -1,0 +1,39 @@
+# Visual Studio Code
+.vscode
+
+# InteliJ IDEA / GoLand
+.idea
+
+# Run/Debug Configuration: Store as project file
+# https://www.jetbrains.com/help/idea/run-debug-configuration-application.html#common
+# In GoLand 2020.3.2, `.run` is the default path instead of `.idea/runConfigurations`
+.run
+
+# Packages
+
+# Environments
+.envrc
+.env
+
+.python-version
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+coverage.out
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+.scannerwork
+
+test_env
+
+*.env
+
+**/__pycache__

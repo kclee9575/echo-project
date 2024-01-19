@@ -1,0 +1,12 @@
+editorconfig
+.git
+LICENSE
+Makefile
+NOTICE
+*.md
+.git
+.vscode
+.idea
+.envrc
+.gitlab-ci.yml
+.python-version
