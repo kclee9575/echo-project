@@ -2,15 +2,16 @@
 ```
 project_name
 ├── cmd : 프로젝트의 메인 애플리케이션들
-    └── project_name
+    └── echo-project/main.go
 ├── config : 설정 파일 템플릿이나 기본 설정들
-├── docs : swagger
-├── handler
-├── logger
-├── model
+    └── db : db 설정값
+├── docs : swagger 관련 값
+├── handler 
+├── logger : zerolog logger
+├── model : resource model
 ├── repository
 ├── route: http 라우팅을 구현한 패키지
-    └── middleware
+    └── middleware 
 ├── service
 └── swagger
 ```
